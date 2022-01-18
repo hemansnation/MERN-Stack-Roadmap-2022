@@ -55,3 +55,4 @@ What are absolute and relative URLs?
 
 How to navigate to a specific part of the page? CSS ids
 
+How to use the loading attribute to lazy load images? loading attribute in image tag. <a href="https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading">Lazy Loading Details</a>
