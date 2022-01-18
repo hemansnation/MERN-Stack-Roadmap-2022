@@ -8,7 +8,7 @@
 1. HTML
 2. CSS
 3. Bootstrap
-4. JavaScri
+4. JavaScript
 5. 5‌ ‌Minor‌ ‌Projects
 6. ReactJS
 7. MongoDB
