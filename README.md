@@ -46,7 +46,7 @@ How to add CSS with HTML file?
 
 #### Day 2
 
-Tags - table, th, td, strong, b, em, span, abbr and title attribute,  target attribute anchor tag, download attribute in anchor tag with image and text as well, specify name of the download attribute.
+Tags - table, th, td, strong, b, em, span, abbr and title attribute,  target attribute anchor tag, download attribute in anchor tag with image and text as well, specify name of the download attribute.<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel">
   rel attribute in anchor tag
 </a>
