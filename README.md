@@ -17,3 +17,8 @@
 10. GIT‌ ‌-‌ ‌version‌ ‌control
 11. 5‌ ‌Major‌ ‌Projects
 12. Deployment
+
+
+# HTML
+
+HTML stands for Hyper Text Markup Language. It is the simplest language in the world as you do not get any errors while working with HTML.
