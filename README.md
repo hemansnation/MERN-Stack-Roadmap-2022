@@ -55,4 +55,3 @@ What are absolute and relative URLs?
 
 How to navigate to a specific part of the page? CSS ids
 
-
