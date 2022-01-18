@@ -22,3 +22,11 @@
 # HTML
 
 HTML stands for Hyper Text Markup Language. It is the simplest language in the world as you do not get any errors while working with HTML.
+
+- Day 1
+What is HTML? 
+
+Different tags - html, title, body, paragraph, heading 1 to 6, anchor, break row, link, img
+
+Different attributes - style, href, rel, src,
+
