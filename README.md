@@ -30,3 +30,11 @@ Different tags - html, title, body, paragraph, heading 1 to 6, anchor, break row
 
 Different attributes - style, href, rel, src,
 
+How the HTML code compile? 
+
+What data structure is used behind the scenes in HTML?
+
+What is HTML parser?
+
+How to add CSS with HTML file?
+
