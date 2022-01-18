@@ -25,11 +25,13 @@ HTML stands for Hyper Text Markup Language. It is the simplest language in the w
 
 #### Day 1
 
-What is HTML? 
-
 Different tags - html, title, body, paragraph, heading 1 to 6, anchor, break row, link, img
 
 Different attributes - style, href, rel, src,
+
+<a href="https://github.com/hemansnation/MERN-Stack-Roadmap-2022/tree/main/HTML/1_HTML%20basics">Code is Here </a>
+
+What is HTML? 
 
 How the HTML code compile? 
 
@@ -38,4 +40,11 @@ What data structure is used behind the scenes in HTML?
 What is HTML parser?
 
 How to add CSS with HTML file?
+
+
+#### Day 2
+
+Tags - table, th, td, strong, b, em, span, abbr and title attribute,  
+
+What are absolute and relative URLs?
 
