@@ -67,6 +67,10 @@ How to configure a form to comunicate with
 server with attributes: action, enctypes, method,
 target.
 
+How to change the design of datetype input field.
+
+How to preview the image with file input type?
+
 enctypes - 
 - application/x-www-form-urlencoded (the default)
 - multipart/form-data
