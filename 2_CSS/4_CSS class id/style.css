@@ -1,0 +1,39 @@
+h1{
+    color: brown;
+}
+
+#indore{
+    border-width: 5px;
+    border-style: solid;
+    border-color: brown;
+    color: coral;
+}
+
+.goa{
+    color: red;
+    text-align: center;
+}
+
+.qoute{
+    border-left-width: 5px;
+    border-left-color: red;
+    border-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-radius: 5px;
+}
+
+#false{
+    border: 5px solid red;
+}
+
+*{
+ /* universal selector */
+}
+
+body{
+    background-image: url('ann.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

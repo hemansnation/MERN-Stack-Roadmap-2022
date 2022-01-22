@@ -1,0 +1,11 @@
+p{
+    border: 2px solid green;
+    padding: 15px;
+    margin: 10px;
+    text-align: justify;
+    text-transform: capitalize;
+    text-indent: 15px;
+}
+a{
+    text-decoration: overline;
+}
