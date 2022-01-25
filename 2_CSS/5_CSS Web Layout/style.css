@@ -1,0 +1,56 @@
+/* a:link{
+    color: red;
+}
+
+a:visited{
+    color: blueviolet;
+}
+
+a:hover{
+    color: brown;
+}
+
+a:active{
+    color: chartreuse;
+} */
+
+a:link, a:visited{
+    background-color: cornflowerblue;
+    color: cornsilk;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active{
+    background-color: brown;
+}
+
+
+/* table, th, td {
+    border: 2px solid black;
+} */
+
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+
+tr:hover{
+    background-color: indianred;
+}
+
+tr:nth-child(even){
+    background-color: lightcoral;
+}
+
+div{
+    overflow-x: auto;
+}
