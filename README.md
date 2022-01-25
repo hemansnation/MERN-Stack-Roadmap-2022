@@ -108,4 +108,14 @@ Universal selector *
 Text align - left, center, justify, text-decoration - overline, none, under-line, line-through, text-transform, text-indent
 
 
+#### Day 5
+
+CSS link, visited, hover, active
+
+Table - border, width height, text-align, padding, tr:hover, tr:nth-child(even), responsive table
+
+
+
+
+
 
