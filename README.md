@@ -114,8 +114,7 @@ CSS link, visited, hover, active
 
 Table - border, width height, text-align, padding, tr:hover, tr:nth-child(even), responsive table
 
+Navigation Bar
 
-
-
-
+Website Layout
 
