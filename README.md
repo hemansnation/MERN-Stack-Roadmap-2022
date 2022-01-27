@@ -118,3 +118,8 @@ Navigation Bar
 
 Website Layout
 
+#### Day 6
+
+Mini Project
+
+div, header, section
