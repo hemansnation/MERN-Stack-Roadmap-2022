@@ -137,3 +137,11 @@ What is Document?
 
 how variables work in JS?
 
+Operators
+
+Algorithm based questions
+
+ - 1, 2 , 3, 5, 8, 13, 21, 34
+  - sum of even - 10
+ 4m
+ / 2 = sum
