@@ -23,7 +23,7 @@
 
 HTML stands for Hyper Text Markup Language. It is the simplest language in the world as you do not get any errors while working with HTML.
 
-#### Day 1
+### Day 1
 
 Different tags - html, title, body, paragraph, heading 1 to 6, anchor, break row, link, img
 
@@ -44,7 +44,7 @@ What is HTML parser?
 How to add CSS with HTML file?
 
 
-#### Day 2
+### Day 2
 
 Tags - table, th, td, strong, b, em, span, abbr and title attribute, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a"> target attribute anchor tag </a>, download attribute in anchor tag with image and text as well, specify name of the download attribute.<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel">
@@ -57,7 +57,7 @@ How to navigate to a specific part of the page? CSS ids
 
 How to use the loading attribute to lazy load images? loading attribute in image tag. <a href="https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading">Lazy Loading Details</a>
 
-#### Day 3
+### Day 3
 
 How to build a form? tags - submit button, checkbox, radio, date, email, file, number, password, reset, search.
 
@@ -87,7 +87,7 @@ How to reset a form.
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form">How to structure a web form.</a>
 
 
-#### Day 4
+### Day 4
 
 CSS
 
@@ -108,7 +108,7 @@ Universal selector *
 Text align - left, center, justify, text-decoration - overline, none, under-line, line-through, text-transform, text-indent
 
 
-#### Day 5
+### Day 5
 
 CSS link, visited, hover, active
 
@@ -118,8 +118,22 @@ Navigation Bar
 
 Website Layout
 
-#### Day 6
+### Day 6
 
 Mini Project
 
 div, header, section
+
+
+### Day 7
+
+JavaScript - How it works?
+
+How to add it with HTML?
+
+How console works? 
+
+What is Document? 
+
+how variables work in JS?
+
