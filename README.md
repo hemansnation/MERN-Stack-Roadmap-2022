@@ -154,3 +154,10 @@ Algorithm based questions
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness"> Loose equality vs strict equality </a>
  
  
+ ### Day 9
+ 
+ For Loop, do while, arrays
+ 
+ Events
+ 
+ 
