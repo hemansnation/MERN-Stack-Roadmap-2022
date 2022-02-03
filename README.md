@@ -160,4 +160,10 @@ Algorithm based questions
  
  Events
  
+ ### Day 10
+
+ functions
+
+ Project- Captcha Generator
+
  
