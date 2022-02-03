@@ -1,0 +1,16 @@
+<html>
+    <head><title>Captcha Generator</title></head>
+
+    <body onload="captchaGenerator()">
+        <h1>Captcha</h1>
+        <input type="text" id="mainCaptcha" value="Captcha" disabled />
+        <button onclick="captchaGenerator()">Refresh</button>
+
+        <br>
+        Input Above Captcha:
+        <input type="text" id="inputCaptcha" />
+        <button onclick="alert(isValid())">Check</button>
+
+        <script src="cap.js"></script>
+    </body>
+</html>
