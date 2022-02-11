@@ -166,4 +166,6 @@ Algorithm based questions
 
  Project- Captcha Generator
 
- 
+### Day 11
+
+Validations on forms
