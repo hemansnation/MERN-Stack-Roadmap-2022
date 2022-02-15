@@ -87,9 +87,11 @@ How to reset a form.
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form">How to structure a web form.</a>
 
 
+# CSS
+
 ### Day 4
 
-CSS
+
 
 Selector, Class and id , Comment, border, color, 
 background-  color, image, repeat, attachment, 
@@ -124,6 +126,8 @@ Mini Project
 
 div, header, section
 
+
+# JavaScript
 
 ### Day 7
 
