@@ -169,3 +169,15 @@ Algorithm based questions
 ### Day 11
 
 Validations on forms
+
+
+### Day 12
+
+What are local and global variables?
+
+How to create an object in Javascript to hold values?
+
+How this keyword works?
+
+Difference between var and let?
+
