@@ -185,3 +185,11 @@ How this keyword works?
 
 Difference between var and let?
 
+
+### Day 13
+
+Function Statements, Function Expressions
+
+Arrow functions, single line arrow function without return, without arguments, dynamically creating arrow functions
+
+Multi line arrow function with return statement
