@@ -200,3 +200,14 @@ Multi line arrow function with return statement
 Template Literals
 
 What is Module?
+
+
+### Day 15
+
+Object Literals, Object class, Function constructor and new keyword.
+
+
+### Day 16
+
+JavaScript Project - Speech Recognition
+
