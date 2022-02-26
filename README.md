@@ -69,7 +69,7 @@ target.
 
 How to change the design of datetype input field.
 
-How to preview the image with file input type?
+How to preview the image with file input type?<a href="https://w3collective.com/preview-selected-img-file-input-js/">Here </a>
 
 enctypes - 
 - application/x-www-form-urlencoded (the default)
