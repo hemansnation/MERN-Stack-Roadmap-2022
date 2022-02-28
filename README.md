@@ -211,3 +211,9 @@ Object Literals, Object class, Function constructor and new keyword.
 
 JavaScript Project - Speech Recognition
 
+
+### Day 17 
+
+CSS transitions,  vendor prefixes for cross browser support wih WebKit.
+
+
