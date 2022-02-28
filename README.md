@@ -218,4 +218,6 @@ CSS transitions,  vendor prefixes for cross browser support wih WebKit.
 
 <a href="https://caniuse.com/">Property compatibility </a>
 
+<a href="https://cubic-bezier.com/#.17,.67,.83,.67">Create your own transition timing function</a>
+
 
