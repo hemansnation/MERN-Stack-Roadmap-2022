@@ -1,0 +1,27 @@
+
+#rotate {
+  display: block;
+}
+
+img {
+  position:absolute;
+}
+
+.big_gear {
+  top: 150px;
+  left: 300px;  
+}
+
+.small_gear {
+  top: 350px;
+  left: 155px;
+}
+
+
+#rotate:hover > .small_gear {
+  
+}
+
+#rotate:hover > .big_gear {
+  
+}
