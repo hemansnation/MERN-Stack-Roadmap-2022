@@ -7,24 +7,55 @@
 
 /* Blue to green */
 #color .square {
-
+	-webkit-transition-property: background-color;
+	-ms-transition-property: background-color;
+	-o-transition-property: background-color;
+	transition-property: background-color;
+	-webkit-transition-duration: 5s;
+	-ms-transition-duration: 5s;
+	-o-transition-duration: 5s;
+	transition-duration: 5s;
+	
 }
 
 #color .square:hover {
   background-color: green;
+
 }
 
 
 /* Square to circle */
-#circle .square {
+/* #circle .square {
+	transition-property: border-radius, background-color;
+	transition-duration: 3s, 5s;
+	transition-delay: 2s, 3s;
+} */
 
+#circle .square {
+	transition: background-color 2s 2s cubic-bezier(1,1,0,0), transform 2s 1s;
+	/* transition: border-radius 1s 1s, background-color 2s 2s; */
 }
 
 #circle .square:hover { 
-  border-radius: 50%;
+  /* border-radius: 50%; */
   background-color: purple;
+  /* transform: skewY(-20deg); */
+  /* transform: scale(2,1); */
+  /* transform: rotate(180deg); */
+  transform: translate(300px);
 }
+/* 
+skew(degree)
+skewY
 
+scale(width, height)
+rotate
+
+translate
+
+
+
+*/
 
 
 
