@@ -221,3 +221,18 @@ CSS transitions,  vendor prefixes for cross browser support wih WebKit.
 <a href="https://cubic-bezier.com/#.17,.67,.83,.67">Create your own transition timing function</a>
 
 
+### Day 18
+
+JavaScript Array object, different types of array representations. 
+
+Methods for stack and queue operations, push pop shift unshift.
+
+Array with for loop, for in , for of, 
+
+Multidimensional array
+
+Other important methods: - splice, slice, concat, foreach, indexOf, lastIndexOf, includes, find, filter, reverse, plit, join
+
+Array.isArray
+
+
