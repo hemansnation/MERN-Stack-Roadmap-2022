@@ -231,7 +231,7 @@ Array with for loop, for in , for of,
 
 Multidimensional array
 
-Other important methods: - splice, slice, concat, foreach, indexOf, lastIndexOf, includes, find, filter, reverse, plit, join
+Other important methods: - splice, slice, concat, foreach, indexOf, lastIndexOf, includes, find, filter, reverse, split, join
 
 Array.isArray
 
