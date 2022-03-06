@@ -235,4 +235,16 @@ Other important methods: - splice, slice, concat, foreach, indexOf, lastIndexOf,
 
 Array.isArray
 
+### Day 19
+
+JavaScript String, Single and dobule quotes, backticks.
+
+Special characters: new line character, length,
+
+Strings are immutable
+
+String methods: charAt,  toUpperCase, toLowerCase, indexOf, includes, startsWith, endsWidth, slice, substring, substr
+
+Bitwise not ~
+
 
