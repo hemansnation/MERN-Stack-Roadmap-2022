@@ -256,14 +256,14 @@ Node JS - VM (V8 / Chakra)
 
 which node, which npm, which npx
 
-"""javascript
+``` javascript
 // Modern JS test
 (async (a = 1, ...b) => ({ ...b, a, [a]: `${a}` }))()
 
 // New Promise APIs
 util.promisify
 require('fs').promises
-"""
+```
 
 
 
