@@ -248,3 +248,22 @@ String methods: charAt,  toUpperCase, toLowerCase, indexOf, includes, startsWith
 Bitwise not ~
 
 
+### Day 20
+
+Node JS - VM (V8 / Chakra)
+
+<a href="https://jscomplete.com/learn/why-node-for-react" >Why Node? </a>
+
+which node, which npm, which npx
+
+"""javascript
+// Modern JS test
+(async (a = 1, ...b) => ({ ...b, a, [a]: `${a}` }))()
+
+// New Promise APIs
+util.promisify
+require('fs').promises
+"""
+
+
+
