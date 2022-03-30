@@ -296,8 +296,40 @@ Creating and publishing your own npm package.
 MERN  authantication project 
 Node and express Server setup
 
+Process object
+
+
+Used packages: 
+
+```javascript
+
+"dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.2",
+    "concurrently": "^7.0.0",
+    "express": "^4.17.3",
+    "is-empty": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.8",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+```
+
+
+
 
 ### Day 23
 
 MERN authentication Project
 Models and Validation
+
+Register and Login Validations
+
+User schema model
+
+routes for register user
