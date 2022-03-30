@@ -293,4 +293,11 @@ Creating and publishing your own npm package.
 
 ### Day 22
 
-MERN  authantication project
+MERN  authantication project 
+Node and express Server setup
+
+
+### Day 23
+
+MERN authentication Project
+Models and Validation
