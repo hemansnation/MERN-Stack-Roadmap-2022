@@ -333,3 +333,10 @@ Register and Login Validations
 User schema model
 
 routes for register user
+
+
+### Day 24 
+
+MERN authentication Project
+
+API for register
