@@ -340,3 +340,12 @@ routes for register user
 MERN authentication Project
 
 API for register
+
+
+### Day 25
+
+MERN Authentication Project
+
+API for Login, Passport JWT strategy
+
+Postman api testing
