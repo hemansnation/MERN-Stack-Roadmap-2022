@@ -349,3 +349,9 @@ MERN Authentication Project
 API for Login, Passport JWT strategy
 
 Postman api testing
+
+### Day 26 
+
+MERN Authentication Project
+
+React App
