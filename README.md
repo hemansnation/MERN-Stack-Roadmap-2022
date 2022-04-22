@@ -355,3 +355,20 @@ Postman api testing
 MERN Authentication Project
 
 React App
+
+
+### Day 27
+
+MERN Authentication Project
+
+React App Navbar component
+
+### Day 28 
+
+MERN Authentication Project
+
+React App Landing page
+
+Login Page
+
+
