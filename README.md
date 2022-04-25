@@ -373,6 +373,14 @@ Login Page
 
 ### Day 29
 
+MERN Authentication Project
+
+React App Landing page
+
+Register and Login 
+
+### Day 30
+
 React Basics
 
 Why React? 
