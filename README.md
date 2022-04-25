@@ -371,4 +371,29 @@ React App Landing page
 
 Login Page
 
+### Day 29
+
+React Basics
+
+Why React? 
+
+CDN - unpkg - React, ReacrDOM and babel
+
+Understanding JSX (JavaScript XML)
+- JSX Elements
+- Comment
+- Rendering JSX
+- Style and className in JSX
+- Injecting data into JSX
+
+#### Interview Questions
+- What is babel?
+- What is transpiler?
+- What is single page application?
+- What is DOM?
+- What is Virtual DOM?
+
+
+
+
 
