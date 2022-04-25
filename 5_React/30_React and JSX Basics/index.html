@@ -1,0 +1,95 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React JSX First Page</title>
+    <style>
+        .app{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: larger;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="root"></div>
+
+    <!-- CORF -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.0.0-beta.3/babel.js"></script>
+    <script type="text/babel">
+        // console.log(React);
+
+        const rootElement = document.querySelector('.root');
+
+        // const singleElement = <h1>First React Application</h1>
+
+        const header = (
+            <header
+                style={{ border: "2px solid red", color: "white", backgroundColor: "black" }}
+            >
+                <h1>React App</h1>
+                <h2>First Session of React and JSX</h2>
+                <p>Abhishek Yadav</p>
+                <small>April 25, 2022</small>
+            </header>
+        );
+
+        const mainStyle = {
+            backgroundColor: "cyan",
+        }
+
+        const main = (
+            <main style={mainStyle}>
+                <p>This is react and react-dom SPA. SPA stands for Single Page Application</p>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ul>
+            </main>
+        );
+
+        const footerStyle = {
+            backgroundColor: "black",
+            color: "white"
+        }
+
+        const footer = (
+            <footer style={footerStyle}>
+                <p>Copyright 2022</p>
+            </footer>
+        );
+
+        const x = "this is indore";
+
+        const app = (
+            <div className="app">
+                {header}
+                {main}
+                {footer}
+                <h1>{x}</h1>
+            </div>
+        );
+
+    
+
+
+
+
+        ReactDOM.render(app, rootElement);
+
+    </script>
+    
+</body>
+</html>
+
+<!-- javascript XML -->
+<!-- Babel
+    - transpiler - translate compiler - convert one language code 
+    to another language code.
+    JSX -> JavaScript
+ -->
