@@ -402,6 +402,29 @@ Understanding JSX (JavaScript XML)
 - What is Virtual DOM?
 
 
+### Day 31 
+
+React and Node Setup, create react app
+
+Install these extensions from Visual Studio Code
+
+- Prettier
+- ESLint
+- Bracket Pair Colorizer
+- ES7 React/Redux/GraphQL/React-Native snippets
+
+
+Create first React app
+- add jsx and render the content
+- Inject Data into JSX
+- Add image in the page
+
+
+#### Interview Questions
+- What is module?
+- What is package?
+- What is NPM?
+- What is webpack?
 
 
 
