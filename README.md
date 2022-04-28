@@ -413,11 +413,8 @@ Install these extensions from Visual Studio Code
 - Bracket Pair Colorizer
 - ES7 React/Redux/GraphQL/React-Native snippets
 
-
-Create first React app
-- add jsx and render the content
-- Inject Data into JSX
-- Add image in the page
+create-react-app
+- adding first JSX code with react
 
 
 #### Interview Questions
@@ -427,4 +424,13 @@ Create first React app
 - What is webpack?
 
 
+### Day 32
+
+React and JSX with create-react-app
+
+
+Create React app
+- add jsx and render the content
+- Inject Data into JSX
+- Add image in the page
 
