@@ -438,3 +438,26 @@ Create React app
 - Inject Data into JSX
 - Add image in the page
 
+
+
+### Day 33
+
+React Components
+
+JavaScript Function and JavaScript Class
+
+- Functional Component / Presentational Component / Stateless Component / Dumb Component
+- Class Component / Container Component/ Statefull Component / Smart Component
+
+Rendering React Components
+
+#### Interview Questions
+- What is React Component?
+- Difference between normal function and arrow function.
+- How to make reusable react components?
+- How small is a React component?
+- What is the difference between a pure JavaScript function and a functional component?
+
+
+
+
