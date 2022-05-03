@@ -459,5 +459,13 @@ Rendering React Components
 - What is the difference between a pure JavaScript function and a functional component?
 
 
+### Day 34 
+
+React Components with Variables
+
+Creating Hexadecimal color with react
+
+Map function for generating li tag using JSX
+
 
 
