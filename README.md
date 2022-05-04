@@ -468,4 +468,19 @@ Creating Hexadecimal color with react
 Map function for generating li tag using JSX
 
 
+### Day 35
+
+React Props
+
+Props in functional Components
+
+Props objects
+- Different types of props object
+- String, number, boolean, array, object, function, props
+
+### Interview Questions
+
+- What is props in a React component ?
+- How do you access props in a React component ?
+- What data types can we pass as props to components ?
 
