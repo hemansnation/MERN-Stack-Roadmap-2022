@@ -474,13 +474,19 @@ React Props
 
 Props in functional Components
 
-Props objects
-- Different types of props object
-- String, number, boolean, array, object, function, props
+String Props
 
 ### Interview Questions
 
 - What is props in a React component ?
 - How do you access props in a React component ?
 - What data types can we pass as props to components ?
+
+### Day 36
+
+React Props
+
+Props objects
+- Different types of props object
+- String, number, boolean, array, object, function, props
 
