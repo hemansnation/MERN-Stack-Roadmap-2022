@@ -490,3 +490,17 @@ Props objects
 - Different types of props object
 - String, number, boolean, array, object, function, props
 
+
+### Day 37
+
+React Map List Keys
+
+Working of Map function with Numbers, arrays of arrays, arrays of object.
+
+Key mapping, 
+
+#### Interview Questions
+
+- Why you need to map an array ?
+- Why we need keys during mapping an array ?
+
