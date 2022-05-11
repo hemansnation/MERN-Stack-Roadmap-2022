@@ -504,3 +504,24 @@ Key mapping,
 - Why you need to map an array ?
 - Why we need keys during mapping an array ?
 
+
+### Day 38 
+
+React Class Components
+Statefull components
+
+Class Components, props in class components, methods in class components.
+
+Convert all the functional components into class components.
+
+#### Interview Questions
+
+- What is inheritance and how do you make a child from a parent class?
+- What is class based React component ?
+- What is the difference between functional React component and class based React component ?
+- When do we need to use class based components instead of functional components
+- What is the use cases of class based component ?
+- Which type of component do use most frequently ? functional or class-based component
+
+
+
