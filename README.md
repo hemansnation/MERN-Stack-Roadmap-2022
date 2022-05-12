@@ -520,8 +520,17 @@ Convert all the functional components into class components.
 - What is class based React component ?
 - What is the difference between functional React component and class based React component ?
 - When do we need to use class based components instead of functional components
+
+
+### Day 39
+
+React class componenets
+
+Methods in class components
+
+#### Interview Questions
+
 - What is the use cases of class based component ?
 - Which type of component do use most frequently ? functional or class-based component
-
 
 
