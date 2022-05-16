@@ -533,4 +533,15 @@ Methods in class components
 - What is the use cases of class based component ?
 - Which type of component do use most frequently ? functional or class-based component
 
+### Day 40
+
+React State
+
+#### Interview Questions
+
+- What is state in React ?
+- What is the difference between props and state in React ?
+- How do you access state in a React component ?
+- How do you set a set in a React component ?
+
 
