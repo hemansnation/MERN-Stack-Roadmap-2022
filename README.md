@@ -544,4 +544,15 @@ React State
 - How do you access state in a React component ?
 - How do you set a set in a React component ?
 
+### Day 41
+
+React Folder Structuring, import and export
+
+#### Interview Questions
+
+- What is the importance of React Folder Structure and File Naming
+- How do you export file
+- How do you import file
+- Make a component of module and export it as named or default export
+- Make a component or module and import it
 
