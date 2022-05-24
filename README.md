@@ -556,3 +556,11 @@ React Folder Structuring, import and export
 - Make a component of module and export it as named or default export
 - Make a component or module and import it
 
+### Day 42
+
+React Events
+
+- What is an event?
+- What is the different between an HTML element event and React event?
+- Write at least 4 keyboard events?
+- Write at least 8 mouse events?
