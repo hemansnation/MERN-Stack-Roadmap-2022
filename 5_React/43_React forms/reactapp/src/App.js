@@ -87,7 +87,7 @@ class App extends Component{
                             />
                         </div>
 
-                        <button className='btn btn-success'>
+                        <button className='btn btn-success' onClick={this.handleSubmit}>
                             Submit
                         </button>
                         
