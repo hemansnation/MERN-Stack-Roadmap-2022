@@ -568,7 +568,7 @@ React Events
 
 ### Day 43
 
-React Forms, Input fields, validations
+React Forms, Input fields, 
 
 #### Interview Questions
 
@@ -581,7 +581,11 @@ React Forms, Input fields, validations
 - When do you use onChange, onBlur, onSubmit?
 - What is the purpose of writing e.preventDefault() inside the submit handler method?
 - How do you bind data in React? The first input field example is data binding in React.
+
+### Day 44
+
+React form validations
+
 - What is validation?
 - What is the event type you use to listen when an input changes?
 - What are event types do you use to validate an input?
-
