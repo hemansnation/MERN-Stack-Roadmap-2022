@@ -589,3 +589,10 @@ React form validations
 - What is validation?
 - What is the event type you use to listen when an input changes?
 - What are event types do you use to validate an input?
+
+### Day 45
+
+React Project
+
+Building a markdown Editor
+
