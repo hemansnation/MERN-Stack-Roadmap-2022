@@ -596,3 +596,16 @@ React Project
 
 Building a markdown Editor
 
+
+### Day 46
+
+MERN Major project
+
+Ecommerce SaaS product
+
+All the code will be available on other Repo
+
+- intial project setup
+- react-router-som
+- Creating routes using switch route
+- Home, Login, Register
