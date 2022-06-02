@@ -609,3 +609,15 @@ All the code will be available on other Repo
 - react-router-som
 - Creating routes using switch route
 - Home, Login, Register
+
+
+### Day 47
+
+MERN Major project
+
+Ecommerce SaaS product
+
+- bootstrap material design
+- ant design
+- menu component code
+- ant design css
