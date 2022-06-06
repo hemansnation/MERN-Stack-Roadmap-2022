@@ -621,3 +621,19 @@ Ecommerce SaaS product
 - ant design
 - menu component code
 - ant design css
+
+
+### Day 48
+
+Ecommerce SaaS product
+
+- Change icons and align to left and right
+- it should be selected when we click the buttons
+- Add react react router link for corresponding pages
+- Firebase google account
+- Create a project in firebase
+- copy code for javascript and paste it in a new file in src called firebase.js
+- Creating a registration form
+- firebase auth signin email
+- react tostify
+- firebase authentication for google and email
