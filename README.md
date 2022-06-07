@@ -633,7 +633,15 @@ Ecommerce SaaS product
 - Firebase google account
 - Create a project in firebase
 - copy code for javascript and paste it in a new file in src called firebase.js
+
+
+### Day 49 
+
+Ecommerce SaaS Product
+
 - Creating a registration form
 - firebase auth signin email
 - react tostify
 - firebase authentication for google and email
+- promises
+- await and async
