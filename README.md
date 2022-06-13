@@ -645,3 +645,11 @@ Ecommerce SaaS Product
 - firebase authentication for google and email
 - promises
 - await and async
+
+
+### Day 50
+
+Ecommerce SaaS Product
+
+- Complete registration page
+- 
