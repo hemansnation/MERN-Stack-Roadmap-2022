@@ -652,4 +652,16 @@ Ecommerce SaaS Product
 Ecommerce SaaS Product
 
 - Complete registration page
+
+Solved the error in firebase configuration
+
+### Day 51
+
+Ecommerce SaaS Product
+
+- Registation complete through email verification link
+- Authenticate user with password as well.
+- Store email in local storage and get it for complete registration
 - 
+
+
