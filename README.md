@@ -662,6 +662,18 @@ Ecommerce SaaS Product
 - Registation complete through email verification link
 - Authenticate user with password as well.
 - Store email in local storage and get it for complete registration
-- 
+
+### Day 52
+
+Ecommerce SaaS Product
+
+- Update password 
+- Redux installation for Global State change
+
+redux, react-redux, redux-devtools-extension
+
+redux-devtool extension for chrome
+
+- Creating reducer seperately
 
 
