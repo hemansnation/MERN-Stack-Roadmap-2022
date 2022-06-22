@@ -676,4 +676,12 @@ redux-devtool extension for chrome
 
 - Creating reducer seperately
 
+### Day 53
+
+Ecommerce SaaS Product
+
+- Logout Functionaly
+- State in redux
+- Login Page
+
 
