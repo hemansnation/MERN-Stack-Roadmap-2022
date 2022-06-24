@@ -682,6 +682,11 @@ Ecommerce SaaS Product
 
 - Logout Functionaly
 - State in redux
+
+### Day 54
+
+Ecommerce SaaS Product
+
 - Login Page
 
 
