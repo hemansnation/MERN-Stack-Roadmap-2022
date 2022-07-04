@@ -690,3 +690,12 @@ Ecommerce SaaS Product
 - Login Page
 
 
+### Day 55
+
+Ecommerce SaaS Product
+
+- Login With google
+- Conditional login and logout for dashboard.
+- Forgot password
+- conditional redirect
+
