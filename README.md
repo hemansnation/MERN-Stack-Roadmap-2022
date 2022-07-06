@@ -699,3 +699,25 @@ Ecommerce SaaS Product
 - Forgot password
 - conditional redirect
 
+### Day 56
+
+Ecommerce SaaS Product
+
+- setup backend node server
+- install packages 
+- express - for backend server
+- body-parser - to parse the JSON data to javascript so that server can communicate with client with JSON data
+- mongoose - its a middleman to connect with mongoDB
+- cors - to avoid the Cross Origin Resourse Sharing, error occurs due to different domain or different origins.
+- morgan - it simply prints the url.
+- express-jwt - it will help us verify the json web token
+- firebase-admin - to send the token to firebase so that we can verify
+- jsonwebtoken - to deal with web tokens
+- nodemon - to continues run the server
+- dotenv - to load variables from the env file
+
+- create server file and first api
+
+
+
+
