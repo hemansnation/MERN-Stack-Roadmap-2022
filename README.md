@@ -719,5 +719,14 @@ Ecommerce SaaS Product
 - create server file and first api
 
 
+### Day 57
+
+Ecommerce SaaS product
+
+- setup database mongodb atlus
+- create routes
+- create controllers for every routes
+- using filesystem for every route and apply them as middleware
+
 
 
