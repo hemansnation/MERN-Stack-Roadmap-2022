@@ -2,6 +2,9 @@
 
 # Become MERN Full Stack Developer in 6 Months
 
+![MERN Stack Batch]()
+
+
 #### Key Features:
 - Build an in-depth understanding of all the full stack concepts.
 - Create your strong social media profile on LinkedIn and GitHub.
