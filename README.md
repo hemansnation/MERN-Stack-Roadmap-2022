@@ -1,7 +1,19 @@
 # MERN-Stack-2022
 
+# Become MERN Full Stack Developer in 6 Months
+
+#### Key Features:
+- Build an in-depth understanding of all the full stack concepts.
+- Create your strong social media profile on LinkedIn and GitHub.
+- Build 15+ projects including 5+ Major Projects.
+- Showcase your skills with a portfolio of real projects.
+- Get a chance to face the interviews in different companies hiring Full Stack Engineers.
+- Work on Live projects in parallel to get an understanding of how companies create end-to-end software solutions.
+
+
 ## MongoDB‌ ‌|‌ ‌ExpressJS‌ ‌|‌ ‌ReactJS‌ ‌|‌ ‌NodeJS‌ ‌<br>
 ### Full‌ ‌Stack‌ ‌Web‌ ‌Application‌ ‌Development‌ ‌
+
 
 #### Technology Stack
 
