@@ -11,12 +11,13 @@
 4. JavaScript
 5. 5‌ ‌Minor‌ ‌Projects
 6. ReactJS
-7. MongoDB
-8. Node
-9. Express
-10. GIT‌ ‌-‌ ‌version‌ ‌control
-11. 5‌ ‌Major‌ ‌Projects
-12. Deployment
+7. Firebase
+8. MongoDB
+9. Node
+10. Express
+11. GIT‌ ‌-‌ ‌version‌ ‌control
+12. 5‌ ‌Major‌ ‌Projects
+13. Deployment
 
 
 # HTML
