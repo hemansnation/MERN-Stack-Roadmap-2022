@@ -741,8 +741,12 @@ Ecommerce SaaS product
 
 - setup database mongodb atlus
 - create routes
-- create controllers for every routes
 - using filesystem for every route and apply them as middleware
 
+### Day 58
 
+Ecommerce SaaS product
 
+- create controllers for every routes
+- Create a user schema
+- setup firebase-admin
