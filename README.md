@@ -739,7 +739,7 @@ Ecommerce SaaS Product
 
 Ecommerce SaaS product
 
-- setup database mongodb atlus
+- setup database mongodb atlas
 - create routes
 - using filesystem for every route and apply them as middleware
 
